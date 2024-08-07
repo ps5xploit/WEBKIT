@@ -27,8 +27,6 @@ payloads/fan_threshold.elf
 payloads/hwinfo-tornblom.elf
 payloads/libhijacker-daemon-1.124.elf
 payloads/libhijacker-spawner-1.124.elf
-payloads/ps5-kstuff-v1.2.bin
 payloads/versions.elf
 payloads/elfldr.elf
-payloads/websrv.elf
 README.md
