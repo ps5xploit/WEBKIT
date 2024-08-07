@@ -60,15 +60,7 @@ const payload_map = [
             source:'?',
             version: '0.5'
         },
-  {
-            displayTitle: 'Kstuff',
-            description: '', // Dejar "description" vacío
-            fileName: 'ps5-kstuff-v1.2.bin',
-            info: 'Descripción de Kstuff', // Mantener "info"
-            author: 'sleirsgoevy',
-            source: 'https://github.com/sleirsgoevy/ps4jb2/blob/ps5-403/ps5-kstuff.bin',
-            version: '1.1'
-        },
+  
 {
             displayTitle: 'ELF Loader',
             description: '', // Dejar "description" vacío
@@ -78,15 +70,7 @@ const payload_map = [
             source: 'ELF Loader',
             version: '1.1'
         },
-{
-            displayTitle: 'Web SRV',
-            description: '', // Dejar "description" vacío
-            fileName: 'websrv.elf',
-            info: 'websrv.elf', // Mantener "info"
-            author: 'websrv.elf',
-            source: 'websrv.elf',
-            version: '1.1'
-        },
+
 ];
 
 // JavaScript para mostrar info en lugar de description
